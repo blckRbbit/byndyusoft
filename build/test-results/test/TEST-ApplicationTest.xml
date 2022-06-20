@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApplicationTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-06-20T13:44:32" hostname="BLCKRBBT" time="0.064">
+  <properties/>
+  <testcase name="getExpression()" classname="ApplicationTest" time="0.022"/>
+  <testcase name="toInvite()" classname="ApplicationTest" time="0.027"/>
+  <testcase name="calculateThrowBSUnexpectedCharacterException()" classname="ApplicationTest" time="0.004"/>
+  <testcase name="calculateBSEmptyExpressionException()" classname="ApplicationTest" time="0.002"/>
+  <testcase name="calculate()" classname="ApplicationTest" time="0.001"/>
+  <testcase name="greet()" classname="ApplicationTest" time="0.001"/>
+  <testcase name="calculateBSUnexpectedTokenException()" classname="ApplicationTest" time="0.001"/>
+  <testcase name="isNotQuit()" classname="ApplicationTest" time="0.001"/>
+  <testcase name="sayGoodbye()" classname="ApplicationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[июн. 20, 2022 4:44:32 PM service.BSCalculatorService toInvite
+INFO: Введите выражение для расчета:
+
+июн. 20, 2022 4:44:32 PM service.BSCalculatorService greet
+INFO: Это приложение - консольный калькулятор.
+
+Передайте арифметическое выражение, чтобы получить результат его вычислений.
+Для выхода нажмите q
+
+июн. 20, 2022 4:44:32 PM service.BSCalculatorService sayGoodbye
+INFO: Спасибо за использование приложения!
+
+]]></system-err>
+</testsuite>
